@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/vinnireis" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123664227-89065480-d80d-11eb-95e4-72d6ba685473.png"/></a>
 
 
-<a href="v_reis@outlook.com.br" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123665263-7fc9b780-d80e-11eb-91d0-aee551247b3d.png"/></a>
+<a href="mailto:v_reis@outlook.com.br" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123665263-7fc9b780-d80e-11eb-91d0-aee551247b3d.png"/></a>
 
 
 <!---
