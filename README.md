@@ -1,9 +1,9 @@
 
- **Hi there👋**
+ ## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## I’m Vinicius Dos Reis Oliveira // @vnnstar
-- 👀 I’m interested in programming, python, SQL, Web (open to other technologies)
-- 🌱 I’m currently learning Python, MySQL, HTML, CSS, JavaScript.
+### I’m Vinicius Reis // @vnnstar
+- 👀 I’m interested in programming, python, HTML, CSS, Javascript (open to other technologies)
+- 🌱 I’m currently learning Python, SQL, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area
 
 ### 📫 How to reach me:
