@@ -30,3 +30,8 @@ You can click the Preview link to take a look at your changes.
 ## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnnstar&layout=compact&theme=tokyonight)](https://github.com/vnnstar/github-readme-stats)
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/vnnstar/count.svg" />
+ </p>
