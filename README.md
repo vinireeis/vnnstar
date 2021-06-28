@@ -23,11 +23,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## My Stats
+### My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=contribs,prs,stars,issues)](https://github.com/vnnstar/github-readme-stats)
 
-## Languages
+### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnnstar&layout=compact&theme=tokyonight)](https://github.com/vnnstar/github-readme-stats)
 
