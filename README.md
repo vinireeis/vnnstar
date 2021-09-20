@@ -3,8 +3,8 @@
 
 ### I’m Vinicius Reis // @vnnstar
 - 👀 I’m interested in programming, python, HTML, CSS, Javascript (open to other technologies)
-- 🌱 I’m currently learning Python, SQL, HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area
+- 🌱 I’m currently learning Python Intermediary/Advanced and framework Django
+<!--- - 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area --->
 
 ### 📫 How to reach me:
 
