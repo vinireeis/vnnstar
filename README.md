@@ -2,8 +2,9 @@
  ## Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### I’m Vinicius Reis // @vnnstar
-- 👀 I’m interested in programming, python, HTML, CSS, Javascript (open to other technologies)
+- 👀 I’m interested in programming, Python, HTML, CSS, Javascript (open to other technologies)
 - 🌱 I’m currently learning Python Intermediary/Advanced and framework Django
+- I'm in a new opportunity as a python developer intern, where we'll develop scripts, apis and other tasks
 <!--- - 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area --->
 
 ### 📫 How to reach me:
