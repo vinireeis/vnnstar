@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 ### My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=contribs,prs,stars,issues)](https://github.com/vnnstar/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=stars,issues)](https://github.com/vnnstar/github-readme-stats) 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=contribs,prs,stars,issues)](https://github.com/vnnstar/github-readme-stats) --->
 
 ### Languages
 
