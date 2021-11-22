@@ -145,7 +145,7 @@ You can click the Preview link to take a look at your changes.
   <summary>RecodePro</summary>
     <br>
    <a href="certificados/recode_hackaton.png" target="_blank">
-   <img src="certificados/recode_hackaton.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro">
+    <img src="certificados/recode_hackaton.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro" width="100%">
    </a>
    <a href="certificados/recode_hackaton_aprovado.png" target="_blank">
     <img src="certificados/recode_hackaton_aprovado.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro">
