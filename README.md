@@ -1,11 +1,12 @@
 
 <header>
  <h2 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><br>
-  i’m Vinicius dos Reis Oliveira :smile:</h2> 
+  i’m Vinicius dos Reis Oliveira :smile:</h2>
 </header>
 
 <section>
  <h3 align="center">  📫 How to reach me:</h3>
+ <br>
   <p align="center">
   <a href="https://www.linkedin.com/in/viniciusdosreis" target="_blank">      <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</img></a>
   <a href="https://www.instagram.com/vinnireis" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123664227-89065480-d80d-11eb-95e4-72d6ba685473.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -145,7 +146,7 @@ You can click the Preview link to take a look at your changes.
   <summary>RecodePro</summary>
     <br>
    <a href="certificados/recode_hackaton.png" target="_blank">
-    <img src="certificados/recode_hackaton.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro" width="100%">
+    <img src="certificados/recode_hackaton.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro">
    </a>
    <a href="certificados/recode_hackaton_aprovado.png" target="_blank">
     <img src="certificados/recode_hackaton_aprovado.png" height="60" alt="Hackaton RecodePro" title="Hackaton RecodePro">
