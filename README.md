@@ -23,7 +23,7 @@
   <li> :man_technologist: Graduating in Information Systems at Faculdade Impacta de Tecnologia</li>
   <li> :blue_heart: I like coding Python, but open to other technologies</li>
   <li> :books: I'm currently learning Python Intermediate/Advanced with framework Django and Flask for web applications</li>
-  <li> :handshake: I'm in a new opportunity as a python developer intern, where we'll develop scripts, apis and other tasks.</li>
+  <li> :handshake: I'm in a new opportunity as a back-end python developer, where we'll develop scripts, apis and other tasks.</li>
  </ul>
 <!--- - 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area --->
 </section>
