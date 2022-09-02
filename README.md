@@ -114,12 +114,12 @@ You can click the Preview link to take a look at your changes.
 
  <section>
   <hr>
-  <h3 align="center"> My Stats</h3>
+  <h3 align="center"> 📊GitHub Stats</h3>
   <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=stars,issues)](https://github.com/vnnstar/github-readme-stats) 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=tokyonight&hide=contribs,prs,stars,issues)](https://github.com/vnnstar/github-readme-stats) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnnstar&layout=compact&theme=tokyonight)](https://github.com/vnnstar/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=vnnstar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vnnstar&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnnstar&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   </div> 
  </section>
   <hr>
