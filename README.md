@@ -263,3 +263,11 @@ You can click the Preview link to take a look at your changes.
     <td><img alingn="center" src="https://profile-counter.glitch.me/vnnstar/count.svg" /></td>
   </table>
  </section>
+ <hr>
+ <section>
+   <h2 align="center"> 😂Random Dev Meme </h2>
+  <div align="center">
+   <img src="https://random-memer.herokuapp.com/" width="512px"/>
+  </div>
+            
+ </section>
