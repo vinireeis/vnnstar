@@ -8,11 +8,18 @@
  <h3 align="center">  📫 How to reach me:</h3>
  <br>
   <p align="center">
-  <a href="https://www.linkedin.com/in/viniciusdosreis" target="_blank">      <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</img></a>
+   <a href="https://www.linkedin.com/in/viniciusdosreis" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </a>
 <!--  <a href="https://www.instagram.com/vinnireis" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123664227-89065480-d80d-11eb-95e4-72d6ba685473.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
-  <a href="mailto:v_reis@outlook.com.br" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123665263-7fc9b780-d80e-11eb-91d0-aee551247b3d.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://wa.me/5511952945737" target="_blank"> <img height="30" width="30" src="https://user-images.githubusercontent.com/80652060/123710083-7fe4aa00-d844-11eb-89c9-460c375543a3.png"/></a>
-  </p>
+<a href="https://wa.me/5511952945737" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:v_reis@outlook.com.br" target="_blank"> 
+ <img src="https://img.shields.io/badge/Outlook-blue?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/>
+</a>
+  
+  </p> 
 </section>
   <hr>
 
