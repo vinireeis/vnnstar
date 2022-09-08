@@ -37,25 +37,84 @@
   
  <!-- Skills -->
 <section>
- <div>
-    <h3 align="center">:computer: Skills</h3>
+ <div align="center">
+    <h3 align="center">:computer: Core skills</h3>
     <!-- FRONT-END -->
-    <table style="text-align: center" align="center">
-        <th>HTML5</th>
-        <th>CSS3</th>
-        <th>Python</th>
-        <th>Django</th>
-        <th>Flask</th>
-        <th>Java</th>
-        <th>MongoDB</th>
-        <th>MySQL</th>
-        <th>Postgre</th>
-        <th>Redis</th
-        <th>Git</th>
-        <tr>
-        
-        </tr>
+    <table>
+     <tbody>
+      <tr>
+       <th>Python</th>
+       <th>Flask</th>
+       <th>FastAPI</th>
+       <th>MongoDB</th>
+       <th>MySQL</th>
+       <th>Redis</th>
+       <th>Docker</th>
+       <th>Git</th>
+      </tr>
+      <tr>
+       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="python" data-canonical-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
+       </td>
+       <td>
+        <a href=""><img src="https://img.shields.io/badge/flask-black?logo=flask&logoColor=white&style=for-the-badge"/>
+       </a>
+       </td>
+       <td>
+        <a href=""><img src="https://img.shields.io/badge/fastapi-aquamarine?logo=fastapi&logoColor=white&style=for-the-badge"/>
+       </a>
+       </td>
+       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongodb" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
+    </td>
+       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="mysql" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>    
+    </td>
+       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" alt="redis" data-canonical-src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" style="max-width: 100%;"></a>
+    </td>
+       <td>
+        <a href=""><img src="https://img.shields.io/badge/docker-cyan?logo=docker&logoColor=white&style=for-the-badge"/>
+       </a>
+       </td>   
+       <td>
+        <a href=""><img src="https://img.shields.io/badge/git-orange?logo=git&logoColor=white&style=for-the-badge"/>
+       </a>
+       </td>
+      </tr>
+     </tbody>
     </table>
+ </div>
+</section>
+
+ <!-- FRONT-END  style="text-align: center" align="center"-->
+ <!-- Skills -->
+<section>
+ <div align="center">
+  <h3>:computer: Other skills</h3>
+  <table>
+   <tbody>
+    <tr>
+     <th>HTML5</th>
+     <th>CSS3</th>
+     <th>Django</th>
+     <th>Java</th>
+     <th>PostgreSQL</th>
+    </tr>
+    <tr>
+     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+     </td>
+     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+     </td>
+     <td>
+      <a href=""><img src="https://img.shields.io/badge/django-darkgreen?logo=django&logoColor=white&style=for-the-badge"/>
+      </a>
+     </td>
+     <td><img src="img/java.svg" height="40px" alt="java"></td>
+     </td>
+     <td>
+      <a href=""><img src="https://img.shields.io/badge/postgre-blue?logo=postgreSQL&logoColor=white&style=for-the-badge"/>
+      </a>
+     </td>
+    </tr>
+   </tbody>
+  </table>
  </div>
 </section>
 
