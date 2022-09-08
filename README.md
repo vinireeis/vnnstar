@@ -20,7 +20,7 @@
 <section>
  <h3 align="center">About me 👀</h3>
  <ul>  
-  <li> :man_technologist: Graduating in Information Systems at Faculdade Impacta de Tecnologia</li>
+  <li> :man_technologist: Graduating in Analyses and Systems Development at Faculdade Impacta de Tecnologia</li>
   <li> :blue_heart: I love this beautiful language that is Python</li>
   <li> :handshake: I currently working as a back-end developer at LigaInvest.</li>
  </ul>
@@ -51,9 +51,11 @@
         <tr>
          <td><img src="img/html.svg" height="40px" alt="html5"></td>
          <td><img src="img/css.svg" height="40px" alt="css3"></td>
-         <td><img src="img/javascript.svg" height="40px" alt="javascript"></td>
+         <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="javascript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
+    </td>
          <td></td>
-         <td><img src="img/python.svg" height="40px" alt="tag python"></td>
+         <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/27250b9f428b32314f8610e1a996939cc116da5f8c4d8a2f8ed37104275085b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="python" data-canonical-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
+    </td>
          <td><img src="img/django.svg" height="40px" alt="django"></td>
          <td><img src="img/flask.svg" height="40px" alt="flask"></td>
          <td></td>
@@ -90,9 +92,12 @@
     <!-- STORAGE -->
     <!--
     <table style="text-align: center">
+        <th>Redis</th>
         <th>MySQL</th>
         <th>Postgre</th>
         <tr>
+        <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ebd60befd49443c14417baff1700c7887f1a3c9c171612b2021a24c597e4b2ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656469732d2532334444303033312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465" alt="redis" data-canonical-src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" style="max-width: 100%;"></a>
+    </td>
         <td><img src="img/mysql.svg" height="40px" alt="mysql"></td>
         <td><img src="img/postgresql.svg" height="40px" alt="postgresql"></td>
         </tr>
