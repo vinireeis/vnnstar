@@ -27,9 +27,9 @@
 <section>
  <h3 align="center">About me 👀</h3>
  <ul>  
-  <li> :man_technologist: Graduating in Analyses and Systems Development at Faculdade Impacta de Tecnologia</li>
+  <li> :man_technologist: Graduated in Systems Analysis and Development from the Faculdade Impacta de Tecnologia</li>
   <li> :blue_heart: I love this beautiful language that is Python</li>
-  <li> :handshake: I currently working as a back-end developer at LigaInvest.</li>
+  <li> :handshake: I currently working as a back-end developer at LigaInvest/Picpay.</li>
  </ul>
 <!--- - 💞️ I’m looking to collaborate on a new job opportunity, being able to acquire new knowledge and professional growth in the programming area --->
 </section>
