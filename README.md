@@ -1,7 +1,7 @@
 
 <header>
  <h2 align="center">Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><br>
-  i’m Vinicius dos Reis Oliveira :smile:</h2>
+  i’m Vinicius Reis :smile:</h2>
 </header>
 
 <section>
